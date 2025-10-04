@@ -1,0 +1,21 @@
+{
+  "intakeChannelId": "1422395937447481494",
+  "archiveCategoryId": "1181653600942964796",
+  "reviewChannelId": "1423342238301421730",
+  "staffRoleIds": [
+    "1181963739365376020",
+    "1214709829701079131",
+    "1422403992771625122",
+    "1181963769514049677"
+  ],
+  "billing": {
+    "invoiceCadenceDays": 14,
+    "invoiceDueDays": 7,
+    "latePolicy": { "type": "apr", "value": 18.0 },
+    "minIncrementHours": 0.1,
+    "travelHalfRate": true,
+    "internalConferenceCapPerDay": 0.3,
+    "maxSimultaneousBillable": 3,
+    "requireRetainer": true
+  }
+}
